@@ -42,6 +42,7 @@ xdg-open index.html
 ```
 
 ## 📸 Preview
+
 ![alt text](image.png)
 
 ## 🧑‍💻 Autor

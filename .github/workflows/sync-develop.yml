@@ -27,6 +27,6 @@ jobs:
           git checkout develop
           git pull origin develop
           git merge origin/main || echo "Nothing to merge"
-      
+
       - name: Push develop
         run: git push origin develop
