@@ -19,7 +19,7 @@ Um relógio analógico funcional desenvolvido com HTML, CSS e JavaScript. Ele mo
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/peandrade/relogio-analogico.git
 ```
 
 2. Acesse a pasta do projeto:
